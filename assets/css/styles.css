@@ -1687,7 +1687,7 @@ h3.blog-title span{
     color: #f9690e;
 }
 ol{
-	list-style:none;
+
 }
 .comment-wrapper {
     position: relative;
@@ -1991,6 +1991,7 @@ ol{
 .shop-list-area .shop-img{
     float: left;
     width: 50%;
+    height: 350px;
 }
 .shop-list-area .shop-img img{
     visibility: hidden;
